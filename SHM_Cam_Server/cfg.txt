@@ -1,0 +1,4 @@
+#name:path:sockid:msgid,
+yolo:/shm_yolo_path:/sock_yolo_id:/msg_yolo_id,
+face:/shm_face_path:/sock_face_id:/msg_face_id,
+ocr:/shm_ocr_path:/sock_ocr_id:/msg_ocr_id,
